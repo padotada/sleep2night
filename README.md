@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sleep2night
 - 👀 I’m interested in reading and playing games
-- 🌱 I’m currently learning Java, Python, HTML, etc.
+- 🌱 I’m currently learning Python, React, C++ etc.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
