@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sleep2night
-- 👀 I’m interested in reading and playing games
 - 🌱 I’m currently learning Python, React, and C++.
 
 
