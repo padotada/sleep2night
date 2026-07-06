@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Roy
-- 🌱 I’m currently learning about building a full stack web app.
+- 👋 Hi, I’m Roy :)
+- 🌱 I’m currently building a full stack web app.
 
 
 <!---
